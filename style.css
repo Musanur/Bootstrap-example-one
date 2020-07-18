@@ -1,0 +1,62 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+.carousel-inner{
+    margin-top: 55px;
+    background-color: skyblue;
+
+}
+.carousel-img-area{
+    height: 422px;
+    margin-left: 250px;
+}
+.logo-area-img{
+    width: 250px;
+    margin-left: 50px;
+    margin-top: 100px;
+}
+.logo-heading{
+    text-align: center;
+}
+.logo-paragraph{
+    text-align: center;
+    margin-bottom: 40px;
+
+}
+.bg-warning{
+    padding: 10px 20px;
+    border-radius: 20px;
+    text-decoration: none;
+    color: black;
+    margin-left: 100px;
+}
+span{
+    color: #6c757d;
+}
+.img-paragraph{
+    color: #5a5a5a;
+    font-size: 20px;
+}
+.img-header{
+    color: #5a5a5a;
+    font-size: 46px;
+    margin-top:100px;
+}
+.product{
+    width: 500px;
+    height: 500px;
+}
+#border-width{
+    margin-top: 201px;
+    border-top: 1px solid #999999;
+    border-bottom: 1px solid #999999;
+    margin-bottom: 30px;
+}
+.row{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+footer{
+    text-align: center;
+    font-size: 18px
+}
